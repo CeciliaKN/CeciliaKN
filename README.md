@@ -27,9 +27,9 @@ blog @niconi.moe
 
 ## Stats
 
-![GitHub stats](https://readme-stats-github.pages.dev/api?username=ShioLilia)
+![GitHub stats](https://readme-stats-github.pages.dev/api?username=CeciliaKN)
 
-![Top Langs](https://readme-stats-github.pages.dev/api/top-langs?username=ShioLilia&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://readme-stats-github.pages.dev/api/top-langs?username=CeciliaKN&size_weight=0.5&count_weight=0.5)
 
 
 <!--
